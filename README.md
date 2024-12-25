@@ -35,7 +35,7 @@ Building a simple website with Rune Forge only takes **minutes**, and you only n
   }
 }
 ```
-
+   
 Feel free to change it as you see fit!
 
 ### Themes
