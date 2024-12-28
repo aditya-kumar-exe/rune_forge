@@ -7,7 +7,7 @@ Building a simple website with Rune Forge only takes **minutes**, and you only n
 ## 📄 Configuration
 
 ### Basic Configuration
-
+ 
 90% of RuneForge's configurations are done through the `config.json` file.
 
 ```javascript
